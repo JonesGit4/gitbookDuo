@@ -2,17 +2,13 @@
 icon: hand-wave
 ---
 
-# GitBook
+# Bem Vindo ao Doc DuoBro
 
-[Docs](https://docs.gitbook.com/) - [Community](https://github.com/GitbookIO/community) - [Developer Docs](https://developer.gitbook.com/) - [Changelog](https://changelog.gitbook.com/) - [Bug reports](https://github.com/GitbookIO/gitbook/issues/new?assignees=\&labels=bug\&template=bug_report.md)
-
-[![](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://gitbook.com)[![](https://img.shields.io/badge/Open_Source-%E2%9D%A4%EF%B8%8F-FDA599?)](./)[![](https://img.shields.io/badge/License-GNU_GPLv3-F4E28D)](https://github.com/JonesGit4/gitbook/blob/main/LICENSE/README.md)[![](https://img.shields.io/github/contributors/gitbookIO/gitbook)](.github/contributing.md)[![](https://img.shields.io/github/issues/gitbookIO/gitbook)](https://github.com/gitbookIO/gitbook/issues)
+[https://www.duobro.com.br/](https://www.duobro.com.br/)
 
 Welcome to GitBook, the platform for managing technical knowledge for teams.
 
 This repository contains the open source code used to render GitBook's published content.
-
-<div align="center"><img src=".gitbook/assets/published-site.png" alt="GitBook Open Published Site"></div>
 
 ## Table of Contents
 
