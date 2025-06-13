@@ -2,15 +2,15 @@
 
 ### # [Registro.br](https://registro.br/)
 
-#### 1. Click on ACESSAR CONTA
+#### 1. Click  ACESSAR CONTA
 
 ![Step 1 screenshot](https://images.tango.us/workflows/96d6d6a5-bb87-4317-86d6-a70a8cb430a5/steps/5e27edbc-164c-4f60-b3b1-20dad7b6a181/682df368-740f-42d6-b1bf-6ee994df9c37.png?crop=focalpoint\&fit=crop\&fp-x=0.7579\&fp-y=0.0849\&fp-z=3.1290\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=468\&mark-y=168\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yNjMmaD00NCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
-#### 2. Click on Código, CPF, CNPJ, ou domínio e insira seus dados de acesso
+#### 2. Click em Código, CPF, CNPJ, ou domínio e insira seus dados de acesso
 
 ![Step 2 screenshot](https://images.tango.us/workflows/96d6d6a5-bb87-4317-86d6-a70a8cb430a5/steps/57b0dc75-45d0-4b46-b08d-afefd35ac2f6/234fee9f-afb8-4e90-80e6-40603a85503e.png?crop=focalpoint\&fit=crop\&fp-x=0.4997\&fp-y=0.3678\&fp-z=1.9352\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=348\&mark-y=323\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz01MDMmaD02OSZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
-#### 3. Click on AVANÇAR
+#### 3. Click  AVANÇAR
 
 ![Step 3 screenshot](https://images.tango.us/workflows/96d6d6a5-bb87-4317-86d6-a70a8cb430a5/steps/7ee6a3a5-5060-4b27-afcb-6bd924f78536/a005f389-4cdd-4c23-bc77-b8aadf2be509.png?crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&fp-z=2.0000\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=490\&mark-y=393\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0yMjAmaD01MyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
